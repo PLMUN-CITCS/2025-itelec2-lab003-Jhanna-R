@@ -3,24 +3,18 @@
 # Laboratory #03 – Guided Coding Exercise:
 # Variables, Literals, and Case-Sensitivity in Python (with Naming Conventions)
 
-# Declare Variables with Numeric Literals
 count = 10                   # 'count' is assigned 10 (integer literal)
 Count = 15                   # 'Count' (different from 'count') is assigned 15
 decimal_value = 3.14         # 'decimal_value' is assigned 3.14 (float literal)
 
-# Declare a Variable with a String Literal
 message = "Hello, Python!"   # String literal
 
-# Declare a Variable with a Boolean Literal
 is_active = True             # Boolean literal
 
-# Declare a Variable with the None Literal
 result = None                # None literal represents absence of value
 
-# Additional Variable Assignment
 total_count = 20             # Another integer literal assignment
 
-# Display the Variable Values
 print("Integer (count):", count)
 print("Integer (Count):", Count)
 print("Integer (total_count):", total_count)
